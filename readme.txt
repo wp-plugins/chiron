@@ -16,7 +16,15 @@ Chiron is a PHP based multi-user, multi-sources, multi-output, multi-cms News-Re
 
 ## Chiron
 
-Chiron is the Teacher of Heros and Heroines. It's a PHP based multi-user, multi-sources, multi-output, multi-cms News-Reader and Cross-Site-Networking Tool. It currently provides one-code-base-fits-all Integration for Wordpress. Drupal will follow soon, hopefully.
+Chiron is the Teacher of Heros and Heroines. It's a PHP based multi-user, multi-sources, multi-output, multi-cms News-Reader and Cross-Site-Networking Tool. It currently provides one-code-base-fits-all Integration for Wordpress. Drupal will follow soon, hopefully. 
+
+Development currently takes place on Github:
+https://github.com/palasthotel/chiron    
+   
+Feel free to contribute, add issues and support requests over there.  
+
+The WordPress Plugin has it's home over there:
+https://wordpress.org/plugins/chiron/
 
 
 ## References
@@ -37,7 +45,7 @@ Chiron makes heavy use of Simple-Pie. Many thanks to all the Contributors over t
 
 ### Wordpress
 
-Chiron was first built to be used within the lovely Wordpress. If you're not familiar with it, got and try it yourself!
+Chiron was first built to be used within the lovely Wordpress. If you're not familiar with it, go and try it yourself!
 
 * http://wordpress.org/
 * http://wordpress.com/
