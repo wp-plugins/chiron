@@ -13,7 +13,7 @@ Chiron is a PHP based multi-user, multi-sources, multi-output, multi-cms News-Re
 
 == Description ==
   
-**CAUTION **
+**CAUTION**
 
 The Plugin comes with own Database Tables and is currently considered not safe for production. 
 
