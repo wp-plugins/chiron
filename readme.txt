@@ -13,11 +13,11 @@ Chiron is a PHP based multi-user, multi-sources, multi-output, multi-cms News-Re
 
 == Description ==
   
-## CAUTION
+**CAUTION **
 
 The Plugin comes with own Database Tables and is currently considered not safe for production. 
 
-## Chiron
+**Chiron**
 
 Chiron is the Teacher of Heros and Heroines. It's a PHP based multi-user, multi-sources, multi-output, multi-cms News-Reader and Cross-Site-Networking Tool. It currently provides one-code-base-fits-all Integration for Wordpress. Drupal will follow soon, hopefully. 
 
@@ -30,30 +30,30 @@ The WordPress Plugin has it's home over there:
 https://wordpress.org/plugins/chiron/
 
 
-## References
+**References**
 
-### The Centaur
+**The Centaur**
 
 Find out more about the mythical Centaur.
 
 * https://en.wikipedia.org/wiki/Chiron
 
 
-### Simple-Pie
+**Simple-Pie**
 
 Chiron makes heavy use of Simple-Pie. Many thanks to all the Contributors over there.
 
 * http://simplepie.org/
 * https://github.com/simplepie/simplepie/
 
-### Wordpress
+**Wordpress**
 
 Chiron was first built to be used within the lovely Wordpress. If you're not familiar with it, go and try it yourself!
 
 * http://wordpress.org/
 * http://wordpress.com/
 
-### Drupal
+**Drupal**
 
 Chiron will also available for the mighty mighty Drupal. Check it out, if you're looking for some serious CMS-Stuff.
 
