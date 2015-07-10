@@ -4,7 +4,7 @@ Donate link:
 Tags: rss, news, feedreader, networking, social network
 Requires at least: 4.0.1
 Tested up to: 4.2.2
-Stable tag: 0.9f
+Stable tag: 0.9i
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -85,7 +85,10 @@ We currently don't have an upgrade Notice for you.
 
 == Changelog ==
 
-= 0.9.f =
+= 0.9.i =
+* Removed Warnings regarding Constants, Variables and Array-Indices
+
+= 0.9.h =
 * Changed url field to varchar and added unique key in tables item and source
 
 = 0.9g =
